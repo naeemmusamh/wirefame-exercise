@@ -1,0 +1,67 @@
+header spam h4 {
+    background-color: #DDD;
+    font-size: x-large;
+    border: 1px solid black;
+    text-align: center;
+    display: inline;
+    margin-left: 120px;
+    margin-top: 0px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+header spam li {
+    clear: both;
+    display: inline-flex;
+    text-align: center;
+    margin-left: 60px;
+}
+
+img {
+    clear: both;
+    position: relative;
+    left: 6%;
+}
+
+article img {
+    border: 1px solid black;
+    margin-top: 10px;
+}
+
+aside img {
+    border: 1px solid black;
+    margin-top: 8px;
+    margin-left: 15px;
+}
+
+header article div li {
+    clear: both;
+    display: inline;
+    position: relative;
+    left: 20%;
+    top: 20%;
+    text-align: center;
+}
+
+article img {
+    border: 1px solid black;
+    display: inline-flex;
+}
+
+article p {
+    position: relative;
+    left: 190px;
+    bottom: 360px;
+    width: 300px;
+    overflow: visible;
+    display: inline-flex;
+}
+
+article button {
+    left: 10px;
+}
+
+footer {
+    background-color: #DDD;
+    border: 1px solid black;
+}
